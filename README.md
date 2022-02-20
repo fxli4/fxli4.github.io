@@ -14,12 +14,12 @@ Change Nodes
 - Guide. Used to [Driver.js](https://github.com/kamranahmedse/driver.js)
 - Breadcrumb move to HeaderContentRender
 - TagViews
-![dashboard](./screenshots/tag-views.jpg)
+![dashboard](https://fxli4.github.io/screenshots/tag-views.jpg)
 
 Overview
 ----
 - my fork
-![dashboard](./screenshots/my-fork.jpg)
+![dashboard](https://fxli4.github.io/screenshots/my-fork.jpg)
 - official
   ![dashboard](https://static-2.loacg.com/open/static/github/SP1.png)
 
